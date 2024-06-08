@@ -18,14 +18,14 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-	'www.visa.com.sg#官方优选域名',
-	'www.wto.org:8080#官方优选域名',
-	'www.who.int:8880#官方优选域名',
+	//'www.visa.com.sg#官方优选域名',
+	//'www.wto.org:8080#官方优选域名',
+	//'www.who.int:8880#官方优选域名',
 ];
 
 // 设置优选noTLS地址api接口
 let addressesnotlsapi = [
-	'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/addressesapi.txt',
+	//'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/addressesapi.txt',
 ];
 
 let DLS = 8;//速度下限
